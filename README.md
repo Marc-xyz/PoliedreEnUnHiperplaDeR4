@@ -1,10 +1,10 @@
 # PoliedreEnUnHiperplaDeR4
 
 ## Objectiu
-L'objectiu d'aquest seminari és aplicar els coneixements adquirits de geometria euclidiana afí per arribar a construir amb cartró un model acurat d'un cert políedre que anomenarem \textit{P} del qual coneixem les coordenades dels seus vèrtexs.*
+L'objectiu d'aquest seminari és aplicar els coneixements adquirits de geometria euclidiana afí per arribar a construir amb cartró un model acurat d'un cert políedre que anomenarem \textit{P} del qual coneixem les coordenades dels seus vèrtexs.
 
 ## Motivació
-**P** és un poliedre convex de **R^3** qu té 14 vèrtexs i 9 cares. Coneixem les coordenades dels vertexs com a punts d'un hiperplà de R^4. El motiu de donar les coordenades a **R^4** és que, com passa moltes vegades (pensem, per exemple, en el triangle equilàter o el tetràedre regular), podem trobar coordenades més senzilles en una dimensió superior a la necessària. En aquest ca concret, és possible donar coordenades enteres per als vèrtex de **P**.
+**P** és un poliedre convex de **R^3** qu té 14 vèrtexs i 9 cares. Coneixem les coordenades dels vertexs com a punts d'un hiperplà de **R^4**. El motiu de donar les coordenades a **R^4** és que, com passa moltes vegades (pensem, per exemple, en el triangle equilàter o el tetràedre regular), podem trobar coordenades més senzilles en una dimensió superior a la necessària. En aquest ca concret, és possible donar coordenades enteres per als vèrtex de **P**.
 
 ## Dades del poliedre
 ### Hiperplans de les cares
