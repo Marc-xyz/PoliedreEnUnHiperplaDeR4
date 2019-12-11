@@ -41,3 +41,7 @@ L'objectiu d'aquest seminari és aplicar els coneixements adquirits de geometria
 ### Equació del Hiperplà
 |**H**|**x+y+z+t=10**|
 |---|---|
+
+## Resultats
+![Cara corresponent al Hiperplà 1](./cara1.png)
+
