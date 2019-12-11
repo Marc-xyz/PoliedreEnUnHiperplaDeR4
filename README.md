@@ -55,7 +55,7 @@ L'objectiu d'aquest seminari és aplicar els coneixements adquirits de geometria
 ![Cara corresponent al Hiperplà 9](./cara9.png)
 
 ### Imatge per imprimir
-![Imatge per imprimir el poliedre](./PoliedrePerImprimir.png.png)
+![Imatge per imprimir el poliedre](./PoliedrePerImprimirpng.png)
 
 ### Imatge Construcció Final
 ![Colaix de la construcció en 3D](./PoliedreEn9Imatges.png)
