@@ -130,7 +130,7 @@ for epsilon in range(9):
 print("\n")
 ```
 ### Programa 2
-```Python
+```python
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
