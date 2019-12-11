@@ -43,5 +43,15 @@ L'objectiu d'aquest seminari és aplicar els coneixements adquirits de geometria
 |---|---|
 
 ## Resultats
+### Imatges de les cares del poliedre
 ![Cara corresponent al Hiperplà 1](./cara1.png)
+![Cara corresponent al Hiperplà 2](./cara2.png)
+![Cara corresponent al Hiperplà 3](./cara3.png)
+![Cara corresponent al Hiperplà 4](./cara4.png)
+![Cara corresponent al Hiperplà 5](./cara5.png)
+![Cara corresponent al Hiperplà 6](./cara6.png)
+![Cara corresponent al Hiperplà 7](./cara7.png)
+![Cara corresponent al Hiperplà 8](./cara8.png)
+![Cara corresponent al Hiperplà 9](./cara9.png)
+
 
