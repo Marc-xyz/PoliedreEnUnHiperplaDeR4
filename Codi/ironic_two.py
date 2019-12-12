@@ -31,7 +31,8 @@
 #+      i considerant dos vèrtexs (més) per formar dos vectors                #+
 #+      continguts en el "pla de la cara".                                    #+
 #+                                                                            #+
-#+   4. Trobem una base ortonormal (e_1,e_2) a partir del mètode de           #+                                                                       #+       Gram-Schmidt i resolem els sistemes lineals de trobar els            #+
+#+   4. Trobem una base ortonormal (e_1,e_2) a partir del mètode de           #+                                                                   
+#+       Gram-Schmidt i resolem els sistemes lineals de trobar els            #+
 #+       valors \lambda i \mu tals que:                                       #+
 #+         $$ vector{V_OV_i}= \mu \cdot e_1+\lambda \cdot e_2. $$             #+
 #+                                                                            #+
